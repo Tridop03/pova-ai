@@ -1,0 +1,7 @@
+{
+  "name": "VeriCheck Nigeria",
+  "description": "Nigeria's #1 product originality checker. Verify your purchases instantly using AI analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
